@@ -217,7 +217,7 @@ psql -U your_username -d your_database -f sql/07_window_functions.sql
 
 ## 👨‍💻 About the Author
 
-Hi! I'm **[Your Name]**, an aspiring Data Analyst currently building my skills in SQL, Python, and Data Visualization. 
+Hi! I'm **Amirali Marjani(MRAVLM)**, an aspiring Data Analyst currently building my skills in SQL, Python, and Data Visualization. 
 
 This project represents **10+ hours** of dedicated work and demonstrates my ability to:
 - Write clean, efficient SQL queries
